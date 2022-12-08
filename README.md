@@ -11,16 +11,20 @@ The selection of soil profiles underpinning SoilGrids is larger than the publicl
 ### Data license and terms of use
 This version of SoilGrids is available to you by ISRIC — World Soil Information under the CC-BY 4.0 License. Alternatively, the CC BY licence for individual profiles/properties is indicated in 'wosis_latest'. By using the ISRIC website and web services the user accepts those licenses and the ISRIC data policy in full.
 
-## Other layers on GEE:
+### Other layers on GEE:
 
 https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/-/blob/master/markdown/access_on_gee.md
 
-## More information:
+### Exemple:
+
+https://code.earthengine.google.com/?scriptPath=users%2Flucassantarosa%2FSBSR%3ASoilGrids%20on%20Google%20Earth%20Engine%20(GEE)
+
+### More information:
 
 https://www.soilgrids.org/
 
 https://www.isric.org/explore/wosis
 
-## Paper:
+### Paper:
 
 Batjes, N. H., Ribeiro, E., and van Oostrum, A.: Standardised soil profile data to support global mapping and modelling (WoSIS snapshot 2019), Earth Syst. Sci. Data, 12, 299–320, https://doi.org/10.5194/essd-12-299-2020, 2020.
