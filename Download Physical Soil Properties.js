@@ -1,3 +1,6 @@
+//Exemple with geometry:
+//https://code.earthengine.google.com/?scriptPath=users%2Flucassantarosa%2FSBSR%3ASoilGrids%20on%20Google%20Earth%20Engine%20(GEE)
+
 //Other layers can be found here:
 //https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/-/blob/master/markdown/access_on_gee.md
 
